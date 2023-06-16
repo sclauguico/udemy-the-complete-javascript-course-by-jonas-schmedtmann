@@ -84,7 +84,7 @@ const job;
 // use 'const' by DEFAULT unless you're sure that 
 // the variable will change later on
 
-// var should be completely avoidede as much as possible. 
+// var should be completely avoided as much as possible. 
 // it's the old way of 
 // declaring variables
 
