@@ -3,7 +3,6 @@
 ///////////////////////////////////////
 // Scoping in Practice
 
-/*
 function calcAge(birthYear) {
   const age = 2037 - birthYear;
 
